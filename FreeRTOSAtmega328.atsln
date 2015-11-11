@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "FreeRTOSAtmega328", "Blink\FreeRTOSAtmega328.cproj", "{DF0BCE41-7A26-487E-B9B8-A7E6DC9BF1FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0BCE41-7A26-487E-B9B8-A7E6DC9BF1FC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DF0BCE41-7A26-487E-B9B8-A7E6DC9BF1FC}.Debug|AVR.Build.0 = Debug|AVR
+		{DF0BCE41-7A26-487E-B9B8-A7E6DC9BF1FC}.Release|AVR.ActiveCfg = Release|AVR
+		{DF0BCE41-7A26-487E-B9B8-A7E6DC9BF1FC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
